@@ -29,11 +29,11 @@ Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency f
 
 | Project | What it is | Stack |
 |---|---|---|
-| **RapidBookr** | Tourism booking and transfer management SaaS — multi-portal system (Admin, Staff, Supplier/Driver, Client), Admin portal first, role-based access, plans and subscriptions. In development. | TypeScript |
-| **Rapid Sec Labs** | Cybersecurity learning and training platform. In development. | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase |
-| **RapidOS** | AI-powered growth operating system — AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
-| **Bizz Flow** | Multi-tenant staff management SaaS — Super Admin, Admin/Shop Owner and Staff portals, QR attendance, GPS radius, device lock, anti-fraud, billing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
-| **Ostroluxx** | Client project — lighting brand website designed by RapidBizz (my contribution) — product catalogue, 3D models and SEO package. | HTML, CSS, JavaScript |
+| [**RapidBookr**](https://github.com/rapidbizz/rapidbookr-showcase) | Tourism booking and transfer management SaaS — multi-portal system (Admin, Staff, Supplier/Driver, Client), Admin portal first, role-based access, plans and subscriptions. In development. | TypeScript |
+| [**Rapid Sec Labs**](https://github.com/rapidbizz/rapid-sec-labs-showcase) | Cybersecurity learning and training platform. In development. | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase |
+| [**RapidOS**](https://github.com/rapidbizz/rapidos-showcase) | AI-powered growth operating system — AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
+| [**Bizz Flow**](https://github.com/rapidbizz/bizz-flow-showcase) | Multi-tenant staff management SaaS — Super Admin, Admin/Shop Owner and Staff portals, QR attendance, GPS radius, device lock, anti-fraud, billing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
+| [**Ostroluxx**](https://github.com/rapidbizz/ostroluxx-showcase) | Client project — lighting brand website designed by RapidBizz (my contribution) — product catalogue, 3D models and SEO package. | HTML, CSS, JavaScript |
 
 
 ## Cybersecurity
@@ -55,14 +55,3 @@ Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency f
 
 
 - Founder, RapidBizz (Aug 2020 – present)
-- Reservations Executive, Arabian Oryx Travel and Tourism LLC, Dubai (Nov 2023 – present)
-- Online Support Specialist, Travel Treck Travel and Tourism LLC, Dubai (Aug 2022 – present)
-
-
-## Connect
-
-
-- Company: [rapidbizz.com](https://rapidbizz.com)
-- Email: Contact@rapidbizz.com
-- LinkedIn: [linkedin.com/in/saifrehmandxb27](https://www.linkedin.com/in/saifrehmandxb27/)
-- GitHub org: [@rapidbizz](https://github.com/rapidbizz)
