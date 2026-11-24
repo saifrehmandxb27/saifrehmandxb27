@@ -21,25 +21,19 @@ I am a Senior Software Engineer (Python / FastAPI) and Founder of [RapidBizz](ht
 - **Cybersecurity** — penetration testing, red teaming, ethical hacking, information security
 
 
-## RapidBizz — products
+## Projects by Saif Ur Rehman & RapidBizz
 
 
 Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency for web, SaaS, AI automation and cybersecurity. The organisation is on GitHub at [@rapidbizz](https://github.com/rapidbizz).
 
 
-| Product | What it is | Stack |
+| Project | What it is | Stack |
 |---|---|---|
 | **RapidBookr** | Tourism booking and transfer management SaaS — multi-portal system (Admin, Staff, Supplier/Driver, Client), Admin portal first, role-based access, plans and subscriptions. In development. | TypeScript |
 | **Rapid Sec Labs** | Cybersecurity learning and training platform. In development. | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase |
 | **RapidOS** | AI-powered growth operating system — AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
 | **Bizz Flow** | Multi-tenant staff management SaaS — Super Admin, Admin/Shop Owner and Staff portals, QR attendance, GPS radius, device lock, anti-fraud, billing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
-
-
----
-## Client work
-
-- **Ostroluxx** — Lighting brand: final client website with product catalogue, 3D models and SEO package.
----
+| **Ostroluxx** | Client project — lighting brand website designed by RapidBizz (my contribution) — product catalogue, 3D models and SEO package. | HTML, CSS, JavaScript |
 
 
 ## Cybersecurity
