@@ -1,13 +1,18 @@
 # Saif Rehman
 
+
 **Founder, RapidBizz Pvt. Ltd. · Penetration Tester · Cybersecurity**
 📍 Dubai, UAE · 🏢 [@rapidbizz](https://github.com/rapidbizz)
 
+
 Penetration Testing · Cybersecurity · Website & Social Media Management · Marketing
+
 
 I am a Senior Software Engineer (Python / FastAPI) and Founder of [RapidBizz](https://rapidbizz.com) — a Dubai-based digital agency building websites, SaaS products, and AI automation for businesses in the UAE and worldwide. I also work in travel and tourism operations in Dubai.
 
+
 ## What I build
+
 
 - **SaaS products** — booking, operations, and training platforms, from MVP to production
 - **Backends & APIs** — FastAPI, microservices, event-driven systems on GCP and AWS, Kubernetes, CI/CD
@@ -15,9 +20,12 @@ I am a Senior Software Engineer (Python / FastAPI) and Founder of [RapidBizz](ht
 - **Web & software** — business websites, custom web apps, dashboards and portals
 - **Cybersecurity** — penetration testing, red teaming, ethical hacking, information security
 
+
 ## RapidBizz — products
 
+
 Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency for web, SaaS, AI automation and cybersecurity. The organisation is on GitHub at [@rapidbizz](https://github.com/rapidbizz).
+
 
 | Product | What it is | Stack |
 |---|---|---|
@@ -26,24 +34,39 @@ Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency f
 | **RapidOS** | AI-powered growth operating system — AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
 | **Bizz Flow** | Multi-tenant staff management SaaS — Super Admin, Admin/Shop Owner and Staff portals, QR attendance, GPS radius, device lock, anti-fraud, billing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
 
+
+---
+## Client work
+
+- **Ostroluxx** — Lighting brand: final client website with product catalogue, 3D models and SEO package.
+---
+
+
 ## Cybersecurity
+
 
 - Studying APT + CEH at Red Team Hacker Academy, Dubai (Jan 2025 – present)
 - TryHackMe **Red Teaming** certificate (Sep 2025)
 - TryHackMe **Advent of Cyber 2024** certificate (Aug 2025)
 - Focus: penetration testing, red teaming, ethical hacking, safeguarding organisations
 
+
 ## Stack
 
-`Python` `FastAPI` `Go` `Node.js` `TypeScript` `React` `Vite` `Tailwind CSS` `PostgreSQL` `Redis` `Celery` `Docker` `Kubernetes` `GCP` `AWS` `Next.js`
+
+`Python` `FastAPI` `Go` `Node.js` `TypeScript` `React` `Vite` `Tailwind CSS` `PostgreSQL` `Redis` `Celery` `Docker` `Kubernetes` `AWS` `GCP` `Supabase`
+
 
 ## Currently
+
 
 - Founder, RapidBizz (Aug 2020 – present)
 - Reservations Executive, Arabian Oryx Travel and Tourism LLC, Dubai (Nov 2023 – present)
 - Online Support Specialist, Travel Treck Travel and Tourism LLC, Dubai (Aug 2022 – present)
 
+
 ## Connect
+
 
 - Company: [rapidbizz.com](https://rapidbizz.com)
 - Email: Contact@rapidbizz.com
