@@ -55,3 +55,14 @@ Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency f
 
 
 - Founder, RapidBizz (Aug 2020 – present)
+- Reservations Executive, Arabian Oryx Travel and Tourism LLC, Dubai (Nov 2023 – present)
+- Online Support Specialist, Travel Treck Travel and Tourism LLC, Dubai (Aug 2022 – present)
+
+
+## Connect
+
+
+- Company: [rapidbizz.com](https://rapidbizz.com)
+- Email: Contact@rapidbizz.com
+- LinkedIn: [linkedin.com/in/saifrehmandxb27](https://www.linkedin.com/in/saifrehmandxb27/)
+- GitHub org: [@rapidbizz](https://github.com/rapidbizz)
