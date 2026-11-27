@@ -1,68 +1,51 @@
-# Saif Rehman
+# Hi, I'm Saif ur Rehman 👋
 
+**Applied AI & Automation | Cybersecurity | Software & SaaS Engineering | Founder @ RapidBizz**
 
-**Founder, RapidBizz Pvt. Ltd. · Penetration Tester · Cybersecurity**
-📍 Dubai, UAE · 🏢 [@rapidbizz](https://github.com/rapidbizz)
+I'm an applied AI engineer, cybersecurity practitioner and SaaS developer building real products and automation for businesses in the UAE and internationally.
 
+## What I do
 
-Penetration Testing · Cybersecurity · Website & Social Media Management · Marketing
+- **Founder, RapidBizz Pvt. Ltd.** (Aug 2020 – Present, Remote) — Pakistan-registered technology company delivering AI automation, custom software, SaaS platforms, cybersecurity, web/e-commerce and digital services.
+- **Applied AI & Automation** — OpenAI integration, chatbot development, LLM applications, REST APIs and AI workflow automation.
+- **Cybersecurity** — CEH v13, Advanced Penetration Testing (APT) training, TryHackMe Top 3% (0xA Wizard). Vulnerability assessment, web application security, network security and red teaming with Nmap, Burp Suite, Metasploit, Wireshark and the MITRE ATT&CK framework.
+- **Software & SaaS Engineering** — web applications, booking platforms and AI-integrated systems across the full product cycle.
 
+## What I'm building
 
-I am a Senior Software Engineer (Python / FastAPI) and Founder of [RapidBizz](https://rapidbizz.com) — a Dubai-based digital agency building websites, SaaS products, and AI automation for businesses in the UAE and worldwide. I also work in travel and tourism operations in Dubai.
-
-
-## What I build
-
-
-- **SaaS products** — booking, operations, and training platforms, from MVP to production
-- **Backends & APIs** — FastAPI, microservices, event-driven systems on GCP and AWS, Kubernetes, CI/CD
-- **AI systems** — RAG, LLM apps, vector search, async workers (Celery / Redis)
-- **Web & software** — business websites, custom web apps, dashboards and portals
-- **Cybersecurity** — penetration testing, red teaming, ethical hacking, information security
-
-
-## Projects by Saif Ur Rehman & RapidBizz
-
-
-Founder of [RapidBizz Pvt. Ltd.](https://rapidbizz.com) — Dubai-based agency for web, SaaS, AI automation and cybersecurity. The organisation is on GitHub at [@rapidbizz](https://github.com/rapidbizz).
-
-
-| Project | What it is | Stack |
+| Product | What it is | Status |
 |---|---|---|
-| [**RapidBookr**](https://github.com/rapidbizz/rapidbookr-showcase) | Tourism booking and transfer management SaaS — multi-portal system (Admin, Staff, Supplier/Driver, Client), Admin portal first, role-based access, plans and subscriptions. In development. | TypeScript |
-| [**Rapid Sec Labs**](https://github.com/rapidbizz/rapid-sec-labs-showcase) | Cybersecurity learning and training platform. In development. | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase |
-| [**RapidOS**](https://github.com/rapidbizz/rapidos-showcase) | AI-powered growth operating system — AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
-| [**Bizz Flow**](https://github.com/rapidbizz/bizz-flow-showcase) | Multi-tenant staff management SaaS — Super Admin, Admin/Shop Owner and Staff portals, QR attendance, GPS radius, device lock, anti-fraud, billing. In development. | React, TypeScript, Vite, Tailwind CSS, Supabase |
-| [**Ostroluxx**](https://github.com/rapidbizz/ostroluxx-showcase) | Client project — lighting brand website designed by RapidBizz (my contribution) — product catalogue, 3D models and SEO package. | HTML, CSS, JavaScript |
+| **RapidOsAI** | AI business operating system — automation, lead generation, CRM, outreach, marketing, business intelligence | Development |
+| **RapidBookr** | Booking, fleet and business management SaaS | Finalization |
+| **RapidSecLabs** | Cybersecurity education platform — hands-on cyber range labs, AI security mentor, Red/Blue Team training | Active Development |
+| **Bizz Flow** | Staff management SaaS — attendance, payroll, leave, tasks | Development |
+| **Ostroluxx** | Client project — lighting brand website, product catalogue, 3D models, SEO | Completed |
+| **RapidTrader** | Trading analytics and intelligence product | Concept |
 
+## What I work with
 
-## Cybersecurity
+**Established:** HTML5, CSS3, JavaScript, PHP, WordPress, REST APIs, Git, Supabase, OpenAI integration, chatbot development, AI workflow automation, VPS/server management, SSL, server hardening.
 
+**Project technologies (used across RapidBizz products):** TypeScript, React, Vite, Tailwind CSS, shadcn/ui.
 
-- Studying APT + CEH at Red Team Hacker Academy, Dubai (Jan 2025 – present)
-- TryHackMe **Red Teaming** certificate (Sep 2025)
-- TryHackMe **Advent of Cyber 2024** certificate (Aug 2025)
-- Focus: penetration testing, red teaming, ethical hacking, safeguarding organisations
+**Currently learning:** Python for AI agent development, LangChain / multi-agent frameworks, RAG and vector databases, n8n workflow automation, FastAPI, Docker, automated software testing.
 
+## Experience
 
-## Stack
+- **Founder, RapidBizz Pvt. Ltd.** — Aug 2020 – Present, Remote
+- **Reservations Executive, Arabian Oryx Travel & Tourism** — 06 Nov 2023 – Present, On-site (Dubai)
+- **Online Support Specialist, Travel Trek Travel & Tourism LLC** — Remote online support (informal arrangement)
 
+## Learning & certifications
 
-`Python` `FastAPI` `Go` `Node.js` `TypeScript` `React` `Vite` `Tailwind CSS` `PostgreSQL` `Redis` `Celery` `Docker` `Kubernetes` `AWS` `GCP` `Supabase`
-
-
-## Currently
-
-
-- Founder, RapidBizz (Aug 2020 – present)
-- Reservations Executive, Arabian Oryx Travel and Tourism LLC, Dubai (Nov 2023 – present)
-- Online Support Specialist, Travel Treck Travel and Tourism LLC, Dubai (Aug 2022 – present)
-
+- **Certified Ethical Hacker (CEH v13)** — EC-Council, 2025
+- **Advanced Penetration Testing (APT)** — Red Team Hacker Academy, Dubai, 2025
+- **TryHackMe** — Rank 0xA Wizard, Top 3%. Learning paths: Red Teaming (Sep 2025), CompTIA Pentest+ learning path (Mar 2026), Pre Security (Aug 2025), Advent of Cyber 2024.
 
 ## Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/saifrehmandxb27/
+- 🛡️ TryHackMe: https://tryhackme.com/p/saifrehmandxb27
+- 📧 saifrehmandxb27@gmail.com
 
-- Company: [rapidbizz.com](https://rapidbizz.com)
-- Email: Contact@rapidbizz.com
-- LinkedIn: [linkedin.com/in/saifrehmandxb27](https://www.linkedin.com/in/saifrehmandxb27/)
-- GitHub org: [@rapidbizz](https://github.com/rapidbizz)
+*Notice period: 60 days.*
